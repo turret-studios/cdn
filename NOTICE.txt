@@ -1,0 +1,2 @@
+Official CDN for turret. studios; used for data storage.
+Used by turret. studios applications; users go away
