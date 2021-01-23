@@ -1,0 +1,5 @@
+{
+  "m.homeserver": {
+    "base_url": "https://173.174.206.3:8448"
+  }
+}
